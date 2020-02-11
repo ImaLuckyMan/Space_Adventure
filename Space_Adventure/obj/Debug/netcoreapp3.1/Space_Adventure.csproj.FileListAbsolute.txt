@@ -1,0 +1,11 @@
+C:\Users\ImaLuckyMan\Desktop\Project_Files\Space_Adventure\bin\Debug\netcoreapp3.1\Space_Adventure.exe
+C:\Users\ImaLuckyMan\Desktop\Project_Files\Space_Adventure\bin\Debug\netcoreapp3.1\Space_Adventure.deps.json
+C:\Users\ImaLuckyMan\Desktop\Project_Files\Space_Adventure\bin\Debug\netcoreapp3.1\Space_Adventure.runtimeconfig.json
+C:\Users\ImaLuckyMan\Desktop\Project_Files\Space_Adventure\bin\Debug\netcoreapp3.1\Space_Adventure.runtimeconfig.dev.json
+C:\Users\ImaLuckyMan\Desktop\Project_Files\Space_Adventure\bin\Debug\netcoreapp3.1\Space_Adventure.dll
+C:\Users\ImaLuckyMan\Desktop\Project_Files\Space_Adventure\bin\Debug\netcoreapp3.1\Space_Adventure.pdb
+C:\Users\ImaLuckyMan\Desktop\Project_Files\Space_Adventure\obj\Debug\netcoreapp3.1\Space_Adventure.csprojAssemblyReference.cache
+C:\Users\ImaLuckyMan\Desktop\Project_Files\Space_Adventure\obj\Debug\netcoreapp3.1\Space_Adventure.AssemblyInfoInputs.cache
+C:\Users\ImaLuckyMan\Desktop\Project_Files\Space_Adventure\obj\Debug\netcoreapp3.1\Space_Adventure.AssemblyInfo.cs
+C:\Users\ImaLuckyMan\Desktop\Project_Files\Space_Adventure\obj\Debug\netcoreapp3.1\Space_Adventure.dll
+C:\Users\ImaLuckyMan\Desktop\Project_Files\Space_Adventure\obj\Debug\netcoreapp3.1\Space_Adventure.pdb
