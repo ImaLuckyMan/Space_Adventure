@@ -3,7 +3,22 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space_Adventure", "Space_Adventure.csproj", "{5083DE59-0FFF-450F-9C9B-9E7470C622BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Space_Adventure", "Space_Adventure.csproj", "{5083DE59-0FFF-450F-9C9B-9E7470C622BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{94074AA8-E385-4D52-801B-2EA9543B4A2E}"
+	ProjectSection(SolutionItems) = preProject
+		1.0_Charector_Creation.cs = 1.0_Charector_Creation.cs
+		1.1_Player_Description.cs = 1.1_Player_Description.cs
+		2.0_Race_Creation.cs = 2.0_Race_Creation.cs
+		2.1_Racial_Bonus.cs = 2.1_Racial_Bonus.cs
+		3.0_Class_Creation.cs = 3.0_Class_Creation.cs
+		3.1_Class_Bonus.cs = 3.1_Class_Bonus.cs
+		4.0_Combat.cs = 4.0_Combat.cs
+		4.1_Enemies.cs = 4.1_Enemies.cs
+		5.0_Questing.cs = 5.0_Questing.cs
+		6.1_Inventory.cs = 6.1_Inventory.cs
+		Class1.cs = Class1.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
