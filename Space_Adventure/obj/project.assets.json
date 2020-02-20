@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\ImaLuckyMan\\.nuget\\packages\\": {}
+    "C:\\Users\\phild\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ImaLuckyMan\\Desktop\\Project_Files\\Space_Adventure\\Space_Adventure.csproj",
+      "projectUniqueName": "C:\\Users\\phild\\Source\\Repos\\Space_Adventure\\Space_Adventure\\Space_Adventure.csproj",
       "projectName": "Space_Adventure",
-      "projectPath": "C:\\Users\\ImaLuckyMan\\Desktop\\Project_Files\\Space_Adventure\\Space_Adventure.csproj",
-      "packagesPath": "C:\\Users\\ImaLuckyMan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ImaLuckyMan\\Desktop\\Project_Files\\Space_Adventure\\obj\\",
+      "projectPath": "C:\\Users\\phild\\Source\\Repos\\Space_Adventure\\Space_Adventure\\Space_Adventure.csproj",
+      "packagesPath": "C:\\Users\\phild\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\phild\\Source\\Repos\\Space_Adventure\\Space_Adventure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ImaLuckyMan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\phild\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
